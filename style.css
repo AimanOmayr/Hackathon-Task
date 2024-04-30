@@ -1,0 +1,18 @@
+.para1{
+    height: 700px;
+    background-image: url(images/image\ 152\ \(1\).png);
+}
+.white{
+    color: white;
+    font-size: x-small;
+}
+/* .paragraph{
+    text-align: center;
+   
+} */
+h1{
+    color: white;
+}
+.button{
+    border-radius: 0px;
+}
